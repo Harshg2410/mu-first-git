@@ -1,2 +1,2 @@
-# mu-first-git
+# my-first-git
 Learning account
