@@ -1,2 +1,2 @@
-# my-first-git
+# my-first-project
 Learning account
